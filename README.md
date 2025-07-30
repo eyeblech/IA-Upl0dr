@@ -67,3 +67,10 @@ The script will ask for:
 - Topics (comma-separated keywords)
 - Media type (movies/audio/text/custom)
 
+## Demo (single file)
+![App Demo](demo-single.gif)
+
+## Demo (folder)
+![App Demo](demo-folder.gif)
+
+
