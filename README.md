@@ -3,7 +3,8 @@
 A simple, reliable Bash script to upload files/folders to [archive.org](https://archive.org) with metadata prompts and progress tracking.
 
 ## Demo
-[![asciicast](https://asciinema.org/a/4ZBOHIbpREGIVk7aMRPTLRTeV.svg)](https://asciinema.org/a/4ZBOHIbpREGIVk7aMRPTLRTeV)
+[![asciicast](https://raw.githubusercontent.com/eyeblech/IA-Upl0dr/main/demo-resized.png)](https://asciinema.org/a/4ZBOHIbpREGIVk7aMRPTLRTeV)
+
 
 ## Features
 - Upload single files **or entire folders**
